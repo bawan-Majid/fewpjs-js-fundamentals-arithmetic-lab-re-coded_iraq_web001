@@ -8,5 +8,5 @@ let random =Math.random()+10
 console.log(random )
 
 let number =11
-mod=number%7
+let mod=number%7
 console.log(mod)
