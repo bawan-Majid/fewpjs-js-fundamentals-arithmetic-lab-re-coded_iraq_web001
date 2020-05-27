@@ -7,6 +7,6 @@ console.log(multiply)
 let random =Math.random()+10
 console.log(random )
 
-let number =10
+let number =11
 mod=number%7
 console.log(mod)
